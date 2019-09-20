@@ -1,6 +1,6 @@
 # Week_2_machine_learning
 
-# This is a repository of 3 linear regression models used to predict the price of stock using microsofts stock information
+This is a repository of 3 linear regression models used to predict the price of stock using microsofts stock information
 
 # Models used
 
